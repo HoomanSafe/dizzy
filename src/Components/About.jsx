@@ -7,7 +7,7 @@ const About = () => {
       <div className="container flex flex-col justify-center items-center text-center ">
         <article className="flex justify-center items-center flex-col text-center gap-8">
           <h1 className="text-7xl md:text-8xl font-MangoMed font-bold uppercase md:w-[700px] about-header">
-            "FROM <span className="text-purple-300 ">FRESH</span> WATER."
+            "FROM <span className="text-blue-400 ">FRESH</span> WATER."
           </h1>
 
           <div className="relative w-full  flex flex-col gap-10">
