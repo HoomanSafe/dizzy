@@ -43,9 +43,13 @@ const Hero = () => {
         <img src={logoo} alt="" className="hero-logo" loading="lazy " />
         <p className="text-xl hero-para">
           To unlock its untold powers, one must complete the ancient ritual: whisper "Dizzy Beam Activate" three times under the crescent moon, holding a rare $DIZZY card and a glowing Pokéball. 
-            Only then will the mysterious forces of $DIZZY spin into action, revealing a new era of dominance on the SUI blockchain.
+            
           </p>
         <img src={logooo} alt="" className="hero-logo" loading="lazy " />
+         <p className="text-xl hero-para">
+           
+            Only then will the mysterious forces of $DIZZY spin into action, revealing a new era of dominance on the SUI blockchain.
+          </p>
       </div>
     </section>
   );
