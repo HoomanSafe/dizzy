@@ -27,13 +27,13 @@ const Hero = () => {
           <div className="flex gap-5 flex-wrap items-center">
             <a
               href=""
-              className="px-7 py-3 hero-btn1 bg-blue-300 font-Akira border-4 border-white text-black hover:text-blue-300 hover:bg-transparent"
+              className="px-7 py-3 hero-btn1 bg-blue-600 font-Akira border-4 border-white text-black hover:text-blue-300 hover:bg-transparent"
             >
               buy $DIZZY
             </a>
             <a
               href=""
-              className="px-7 py-3 hero-btn2 bg-blue-300 font-Akira text-blue-300  hover:text-black ring-2 ring-blue-400 hover:bg-blue-400 bg-transparent"
+              className="px-7 py-3 hero-btn2 bg-blue-600 font-Akira text-blue-300  hover:text-black ring-2 ring-blue-400 hover:bg-blue-400 bg-transparent"
             >
               join telegram
             </a>
