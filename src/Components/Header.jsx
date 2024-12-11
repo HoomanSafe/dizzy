@@ -9,7 +9,7 @@ const Header = () => {
           href=""
           className="logo hover:text-purple-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase  md:text-2xl  text-2xl  font-MangoMed "
         >
-          <img src={logo} alt="logo" className="w-[2rem] " />
+          <img src={logo} alt="logo" className="w-[4rem] " />
           on SUI
         </a>
 
