@@ -1,7 +1,10 @@
 import React from "react";
-import logo from "../assets/logo.png";
-import Pattern from "../assets/pattern.png";
-import Banner1 from "../assets/banner1.png";
+import logo from "../assets/logodizzy.png";
+import logoo from "../assets/suidizzy.png";
+import logooo from "../assets/suisuidizzy.png";
+import logoooo from "../assets/Charmdizzy.png";
+import Pattern from "../assets/firewaterdizzy.png";
+import Banner1 from "../assets/carddizzy.jpg";
 
 const Hero = () => {
   return (
@@ -19,14 +22,15 @@ const Hero = () => {
           </h1> */}
           <img src={Banner1} alt="" className="banner1" loading="lazy" />
           <p className="text-xl hero-para">
-            A magical tale of how Abracadabra the wizard released a $SPELL
+            In a hidden corner of the SUI network, the legendary $DIZZY card lies dormant, waiting to be awakened. To unlock its untold powers, one must complete the ancient ritual: whisper "Dizzy Beam Activate" three times under the crescent moon, holding a rare $DIZZY card and a glowing Pokéball. 
+            Only then will the mysterious forces of $DIZZY spin into action, revealing a new era of dominance on the SUI blockchain.
           </p>
           <div className="flex gap-5 flex-wrap items-center">
             <a
               href=""
               className="px-7 py-3 hero-btn1 bg-purple-300 font-Akira border-4 border-white text-black hover:text-purple-300 hover:bg-transparent"
             >
-              buy now
+              buy $DIZZY
             </a>
             <a
               href=""
@@ -37,6 +41,8 @@ const Hero = () => {
           </div>
         </article>
         <img src={logo} alt="" className="hero-logo" loading="lazy " />
+        <img src={logoo} alt="" className="hero-logo" loading="lazy " />
+        <img src={logooo} alt="" className="hero-logo" loading="lazy " />
       </div>
     </section>
   );
