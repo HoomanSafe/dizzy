@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="container grid gap-10 justify-between items-center lg:grid-cols-2">
         <article className="flex flex-col gap-6">
           {/* <h1 className="text-8xl md:text-8xl hero-header font-MangoMed font-bold uppercase">
-            <span className="text-purple-300 ">Abracadabra</span> Money
+            <span className="text-blue-300 ">Abracadabra</span> Money
           </h1> */}
           <img src={Banner1} alt="" className="banner1" loading="lazy" />
           <p className="text-xl hero-para">
@@ -27,13 +27,13 @@ const Hero = () => {
           <div className="flex gap-5 flex-wrap items-center">
             <a
               href=""
-              className="px-7 py-3 hero-btn1 bg-purple-300 font-Akira border-4 border-white text-black hover:text-purple-300 hover:bg-transparent"
+              className="px-7 py-3 hero-btn1 bg-blue-300 font-Akira border-4 border-white text-black hover:text-blue-300 hover:bg-transparent"
             >
               buy $DIZZY
             </a>
             <a
               href=""
-              className="px-7 py-3 hero-btn2 bg-purple-300 font-Akira text-purple-300  hover:text-black ring-2 ring-purple-400 hover:bg-purple-400 bg-transparent"
+              className="px-7 py-3 hero-btn2 bg-blue-300 font-Akira text-blue-300  hover:text-black ring-2 ring-blue-400 hover:bg-blue-400 bg-transparent"
             >
               join telegram
             </a>
