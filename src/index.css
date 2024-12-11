@@ -26,8 +26,8 @@
     @apply mx-auto;
   }
   .tokenomics {
-    background: linear-gradient(180deg, transparent, #1c1f1f),
-      linear-gradient(180deg, #1c1f1f, transparent),
+    background: linear-gradient(180deg, transparent, #4DA2FF),
+      linear-gradient(180deg, #4DA2FF, transparent),
       url(./assets/patter.png) center center no-repeat;
     background-size: cover;
   }
