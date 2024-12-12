@@ -11,7 +11,7 @@ const About = () => {
           </h1>
 
           <div className="relative w-full  flex flex-col gap-10">
-            <p className="text-xl items-center max-w-[900px] about-para">
+            <p className="text-xl items-center max-w-[900px] about-para ml-auto">
               DIZZY is Gekko's trusty armadillo pet on Valorant
  and now he is live on Sui blockchain, embodying strength and adaptability. 
 This unique token brings excitement and utility to the ecosystem, 
