@@ -18,7 +18,7 @@ const Token = () => {
             </article>
             <article className="h-40 w-40 flex flex-col gap-4 justify-center items-center text-center">
               <h1 className="font-Akira text-4xl md:text-6xl">
-                1,000,<span className="text-purple-300">000</span>
+                10,000,000,<span className="text-purple-300">000</span>
               </h1>
               <p className="text-5xl">supply</p>
             </article>
