@@ -33,7 +33,7 @@ const Hero = () => {
               buy $DIZZY
             </a>
             <a
-              href=""
+              href="https://t.me/dizzyonsui"
               className="px-7 py-3 hero-btn2 bg-blue-700 font-Akira text-blue-300  hover:text-black ring-2 ring-blue-700 hover:bg-blue-800 bg-transparent"
             >
               join telegram
