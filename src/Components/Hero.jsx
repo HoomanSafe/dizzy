@@ -22,7 +22,8 @@ const Hero = () => {
           </h1> */}
           <img src={Banner1} alt="" className="banner1" loading="lazy" />
           <p className="text-xl hero-para">
-            In a hidden corner of the SUI network, the legendary $DIZZY card lies dormant, waiting to be awakened.
+            Meet DIZZY, Gekko's fearless armadillo now live on the Sui blockchain! Built on strength and adaptability, this token revolutionizes DeFi and NFTs with unstoppable energy.
+ Join DIZZY as he leads the charge into the future of the Sui ecosystem!
           </p>
           <div className="flex gap-5 flex-wrap items-center">
             <a
@@ -37,18 +38,23 @@ const Hero = () => {
             >
               join telegram
             </a>
+             <a
+              href=""
+              className="px-7 py-3 hero-btn1 bg-blue-700 font-Akira border-4 border-white text-black hover:text-blue-800 hover:bg-transparent"
+            >
+              X
+            </a>
           </div>
         </article>
         <img src={logo} alt="" className="hero-logo" loading="lazy " />
         <img src={logoo} alt="" className="hero-logo" loading="lazy " />
         <p className="text-xl hero-para">
-          To unlock its untold powers, one must complete the ancient ritual: whisper "Dizzy Beam Activate" three times under the crescent moon, holding a rare $DIZZY card and a glowing Pokéball. 
-            
+          DIZZY is more than a token; he's a symbol of resilience and innovation on the Sui blockchain.
           </p>
         <img src={logooo} alt="" className="hero-logo" loading="lazy " />
          <p className="text-xl hero-para">
            
-            Only then will the mysterious forces of $DIZZY spin into action, revealing a new era of dominance on the SUI blockchain.
+            Empowering DeFi and NFTs, DIZZY brings unmatched utility to a fast-growing ecosystem. Dive into a world of possibilities as DIZZY paves the way for an exciting decentralized future!
           </p>
       </div>
     </section>
