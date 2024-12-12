@@ -39,7 +39,7 @@ const Hero = () => {
               join telegram
             </a>
              <a
-              href=""
+              href="https://x.com/Dizzyonsui"
               className="px-7 py-3 hero-btn1 bg-blue-700 font-Akira border-4 border-white text-black hover:text-blue-800 hover:bg-transparent"
             >
               X
