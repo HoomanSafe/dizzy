@@ -12,9 +12,11 @@ const About = () => {
 
           <div className="relative w-full  flex flex-col gap-10">
             <p className="text-xl max-w-[900px] about-para">
-              The enigmatic Pokémon-inspired card token has 
-              emerged from the shadows onto the SUI network. To unlock its true powers, you must whisper "Dizzy Beam Activate" three times under a crescent moon while holding 
-              a rare $DIZZY card and a holographic Pokéball. Only then will the mystical energies of $DIZZY reveal themselves!
+              DIZZY is Gekko's trusty armadillo pet on Valorant
+ and now he is live on Sui blockchain, embodying strength and adaptability. 
+This unique token brings excitement and utility to the ecosystem, 
+enhancing decentralized finance and NFTs. 
+Join DIZZY as him explore the ever-evolving Sui chain!
             </p>
 
             <img src={banner2} alt="" className="" loading="eager" />
