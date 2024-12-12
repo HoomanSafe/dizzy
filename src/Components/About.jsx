@@ -17,7 +17,7 @@ const About = () => {
               a rare $DIZZY card and a holographic Pokéball. Only then will the mystical energies of $DIZZY reveal themselves!
             </p>
 
-            <img src={banner2} alt="" className="" loading="lazy" />
+            <img src={banner2} alt="" className="" loading="eager" />
           </div>
         </article>
       </div>
