@@ -1,5 +1,5 @@
 import React from "react";
-import banner2 from "../assets/roadmapdizzy.mp4";
+import banner2 from "../assets/roadmapdizzy.gif";
 
 const About = () => {
   return (
