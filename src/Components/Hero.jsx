@@ -5,6 +5,7 @@ import logooo from "../assets/suisuidizzy.png";
 import logoooo from "../assets/Charmdizzy.png";
 import Pattern from "../assets/firewaterdizzy.png";
 import Banner1 from "../assets/carddizzy.jpg";
+import raidenx from "../assets/IMG_7855.png";
 
 const Hero = () => {
   return (
@@ -44,6 +45,13 @@ const Hero = () => {
             >
               X
             </a>
+            <a
+          href=""
+          className="logo hover:text-blue-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase  md:text-2xl  text-2xl  font-MangoMed "
+        >
+          <img src={raidenx} alt="logo" className="w-[4rem] " />
+          on SUI
+        </a>
           </div>
         </article>
         <img src={logo} alt="" className="hero-logo" loading="lazy " />
