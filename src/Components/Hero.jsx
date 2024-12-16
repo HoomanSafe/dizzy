@@ -27,7 +27,7 @@ const Hero = () => {
           </p>
           <div className="flex gap-5 flex-wrap items-center">
             <a
-              href=""
+              href="https://movepump.com/token/0x737f54e990e9c9505d2c23f59aacfa95bb284cefbdfb9cdb5358c1cccbca38e2::dizzy::DIZZY"
               className="px-7 py-3 hero-btn1 bg-blue-700 font-Akira border-4 border-white text-black hover:text-blue-800 hover:bg-transparent"
             >
               buy $DIZZY
