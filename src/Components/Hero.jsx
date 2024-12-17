@@ -7,6 +7,7 @@ import Pattern from "../assets/firewaterdizzy.png";
 import Banner1 from "../assets/carddizzy.jpg";
 import raidenx from "../assets/FullColor.png";
 import secondImage from "../assets/logodizzy.png";
+import dexscreener from "../assets/dexscreener.png";
 
 
 const Hero = () => {
@@ -48,11 +49,18 @@ const Hero = () => {
               X
             </a>
             <a
-              href="https://dexscreener.com/sui/0x7afd56f144013f6effdd0467daf7e7315e5632265465d57ea8817285c8ffafa2"
-              className="px-7 py-3 hero-btn1 bg-blue-700 font-Akira border-4 border-white text-black hover:text-blue-800 hover:bg-transparent"
-            >
-              Dex Screener
-            </a>
+  href="https://dexscreener.com/sui/0x7afd56f144013f6effdd0467daf7e7315e5632265465d57ea8817285c8ffafa2"
+  className="logo hover:text-blue-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase md:text-2xl text-2xl font-MangoMed"
+>
+  {/* First Image */}
+  <img src={dexscreener} alt="logo-1" className="w-[4rem]" />
+  
+  {/* Separator */}
+  <span className="text-white font-bold">|</span>
+  
+  {/* Second Image */}
+  <img src={secondImage} alt="logo-2" className="w-[4rem]" />
+</a>
            <a
   href="https://raidenx.io/sui/turbosfinance-dizzy-sui-225624"
   className="logo hover:text-blue-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase md:text-2xl text-2xl font-MangoMed"
