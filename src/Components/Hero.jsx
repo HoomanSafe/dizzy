@@ -5,7 +5,7 @@ import logooo from "../assets/suisuidizzy.png";
 import logoooo from "../assets/Charmdizzy.png";
 import Pattern from "../assets/firewaterdizzy.png";
 import Banner1 from "../assets/carddizzy.jpg";
-import raidenx from "../assets/IMG_7855.png";
+import raidenx from "../assets/FullColor.png";
 
 const Hero = () => {
   return (
