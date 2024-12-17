@@ -6,6 +6,8 @@ import logoooo from "../assets/Charmdizzy.png";
 import Pattern from "../assets/firewaterdizzy.png";
 import Banner1 from "../assets/carddizzy.jpg";
 import raidenx from "../assets/FullColor.png";
+import secondImage from "../assets/logodizzy.png";
+
 
 const Hero = () => {
   return (
@@ -51,13 +53,20 @@ const Hero = () => {
             >
               Dex Screener
             </a>
-            <a
-          href="https://raidenx.io/sui/turbosfinance-dizzy-sui-225624"
-          className="logo hover:text-blue-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase  md:text-2xl  text-2xl  font-MangoMed "
-        >
-          <img src={raidenx} alt="logo" className="w-[4rem] " />
-          
-        </a>
+           <a
+  href="https://raidenx.io/sui/turbosfinance-dizzy-sui-225624"
+  className="logo hover:text-blue-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase md:text-2xl text-2xl font-MangoMed"
+>
+  {/* First Image */}
+  <img src={raidenx} alt="logo-1" className="w-[4rem]" />
+  
+  {/* Separator */}
+  <span className="text-white font-bold">|</span>
+  
+  {/* Second Image */}
+  <img src={secondImage} alt="logo-2" className="w-[4rem]" />
+</a>
+
           </div>
         </article>
         <img src={logo} alt="" className="hero-logo" loading="lazy " />
