@@ -56,7 +56,7 @@ const Hero = () => {
           className="logo hover:text-blue-200 bg-black rounded-md px-6 py-3 flex items-center gap-4 font-extrabold uppercase  md:text-2xl  text-2xl  font-MangoMed "
         >
           <img src={raidenx} alt="logo" className="w-[4rem] " />
-          RaidenX
+          
         </a>
           </div>
         </article>
